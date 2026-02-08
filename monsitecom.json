@@ -1,0 +1,44 @@
+{
+  "company": "AZERTY",
+  "city": "montauban",
+  "area": "occitanie",
+  "phone": "0601020304",
+  "email": "contact@top.fr",
+  "website": "www.top.fr",
+  "experience_years": "15",
+  "services": [
+    "Carrelage",
+    "Fondations",
+    "Maçonnerie",
+    "Parquet",
+    "Peinture",
+    "Plâtrerie / Placoplâtre"
+  ],
+  "facebook": "",
+  "instagram": "",
+  "tiktok": "",
+  "linkedin": "",
+  "youtube": "",
+  "template": "A",
+  "primary_color": "#2563eb",
+  "animations": true,
+  "pages": {
+    "home": true,
+    "services": true,
+    "projects": true,
+    "reviews": true,
+    "contact": true,
+    "legal": true
+  },
+  "logo_path": "",
+  "page_images": {
+    "home": [],
+    "services": [],
+    "projects": [],
+    "reviews": [],
+    "contact": []
+  },
+  "seo_title": "",
+  "seo_description": "",
+  "wp_shortcode": ""
+}
